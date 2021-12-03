@@ -52,7 +52,7 @@
 					},
 					"activities": [
 						{
-							"name": "Copydata from source to sink",
+							"name": "Copy data from source to sink",
 							"type": "Copy",
 							"dependsOn": [],
 							"policy": {
