@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "GetConfigVals",
+				"name": "Get Config Vals",
 				"type": "Lookup",
 				"dependsOn": [],
 				"policy": {
@@ -38,7 +38,7 @@
 				"type": "ForEach",
 				"dependsOn": [
 					{
-						"activity": "GetConfigVals",
+						"activity": "Get Config Vals",
 						"dependencyConditions": [
 							"Succeeded"
 						]
