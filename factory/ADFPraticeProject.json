@@ -1,0 +1,9 @@
+{
+	"name": "ADFPraticeProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2932fd3e-cc2c-4719-a961-dd3e13ab44db",
+		"tenantId": "e17340ce-eb52-4041-afa3-a53fa4c74d55"
+	}
+}
